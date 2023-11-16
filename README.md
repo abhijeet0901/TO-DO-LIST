@@ -1,1 +1,6 @@
-"# TO-DO-LIST" 
+"# for client"
+"# do cd client"
+"# then npm start"
+"# for sever"
+"# do cd server"
+"# then nodemon server"
